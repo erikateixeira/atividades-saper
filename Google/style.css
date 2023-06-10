@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Tiro+Kannada:ital@0;1&display=swap');
+
+* {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+.letras-google {
+    font-family: 'Tiro Kannada', serif;
+    letter-spacing: -15px;
+    font-size: 120px;
+    text-shadow: 4px 4px 8px gray;
+}
+
+.texto {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+input {
+    width: 400px;
+}
+
+a {
+    color: rgb(59, 59, 215);
+}
