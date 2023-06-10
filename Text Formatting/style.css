@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,200;0,400;0,700;1,100&family=Tangerine:wght@400;700&display=swap');
+
+.primeiro-texto {
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    color: rgb(225, 147, 0);
+    text-shadow: 2px 2px 4px gray;
+}
+
+.segundo-texto {
+    font-family: 'Libre Franklin', sans-serif;
+    font-variant: small-caps;
+    color: rgb(0, 106, 0);
+    width: 400px;
+    text-align: center;
+    background-color: rgb(249, 216, 172);
+}
+
+.terceiro-texto {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: x-small;
+    color: rgb(100, 17, 17);
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+
+.quarto-texto {
+    font-family: 'Tangerine', cursive;
+    font-weight: 700;
+    font-size: x-large;
+    text-align: right;
+    color: rgb(0, 0, 164);
+}
